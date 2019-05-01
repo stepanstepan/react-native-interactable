@@ -44,4 +44,5 @@ dependencies {
 
     // node_modules
     implementation 'com.facebook.react:react-native:+'
+    compile 'com.facebook.infer.annotation:infer-annotation:+'
 }
